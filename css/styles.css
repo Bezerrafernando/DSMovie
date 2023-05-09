@@ -65,7 +65,6 @@ a,
   width: 260px;
 }
 .dsmovie-card img {
-  
   width: 100%;
   border-radius: 8px 8px 0 0;
 }
@@ -87,7 +86,6 @@ a,
   margin-bottom: 25px;
   text-align: center;
   line-height: 19.07px;
-  
 }
 .dsmovie-btn,
 .dsmovie-btn:hover {
@@ -101,4 +99,8 @@ a,
   align-items: center;
   justify-content: center;
   border-radius: 4px;
+}
+.dsmovie-form-conteiner {
+  padding: 40px 0;
+  max-width: 480px;
 }
