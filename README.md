@@ -1,5 +1,7 @@
 #Objetivos do projeto
 
+#Parte 1 do Projeto
+
 Criar o projeto e salvar no Github
 Criar o layout da barra superior
 Criar o layout da listagem de filmes
@@ -99,6 +101,17 @@ Breakpoints do Bootstrap:
 https://getbootstrap.com/docs/5.0/layout/breakpoints/
 
 COMMIT: Listagem de cards
+
+Parte dois Projeto 2:
+
+Layout do formulário
+Layout das avaliações com estrelas
+Polimento na listagem
+
+Passo: Formulário PARTE 1
+Passo: Formulário PARTE 2
+Passo: Avaliação com estrelas
+Passo: Polimento da listagem
 
 
 
