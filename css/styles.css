@@ -82,10 +82,12 @@ a,
   min-height: 150px;
 }
 .dsmove-car-description h3 {
-  font-size: 14;
+  font-size: 14px;
   font-weight: 700;
   margin-bottom: 25px;
   text-align: center;
+  line-height: 19.07px;
+  
 }
 .dsmovie-btn,
 .dsmovie-btn:hover {
