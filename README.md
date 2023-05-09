@@ -109,8 +109,11 @@ Layout das avaliações com estrelas
 Polimento na listagem
 
 Passo: Formulário PARTE 1
+
 Passo: Formulário PARTE 2
+
 Passo: Avaliação com estrelas
+
 Passo: Polimento da listagem
 
 
