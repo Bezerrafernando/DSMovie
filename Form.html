@@ -28,26 +28,41 @@
 
     <main>
       <section id="dsmovie-form-section">
-
-        <div  class="container dsmovie-form-conteiner">
-
+        <div class="container dsmovie-form-conteiner">
           <div>
-            <div class="dsmovie-card">
+            <div class="dsmovie-card-form">
               <img
                 src="https://www.themoviedb.org/t/p/w220_and_h330_face/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
                 alt="The Super Mario Bros"
               />
-              <div class="dsmove-car-description">
+              <div class="dsmove-form-description">
                 <h3>The Super Mario Bros O Filme</h3>
-                <a class="dsmovie-btn" href="index.html">Cancelar</a>
+                <form class="dsmove-form">
+                  <div class="form-group dsmove-form-group">
+                    <label for="email">Informe seu Email</label>
+                    <input class="form-control" type="email" id="email" />
+                  </div>
+                  <div class="form-group dsmove-form-group">
+                    <label for="score">Informe sua Avaliação</label>
+                    <select class="form-control" name="score" id=">
+                      score">
+                      <option value="1">1</option>
+                      <option value="2">2</option>
+                      <option value="3">3</option>
+                      <option value="4">4</option>
+                      <option value="5">5</option>
+                    </select>
+                  </div>
+                  <div class="dsmove-form-btn-container">
+                    <button class="dsmovie-btn" type="submit">Salvar</button>
+                    <a class="dsmovie-btn" href="index.html">Cancelar</a>
+                  </div>
+                </form>
               </div>
             </div>
           </div>
-
         </div>
-
       </section>
-
     </main>
   </body>
 </html>
