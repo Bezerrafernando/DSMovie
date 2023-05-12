@@ -67,7 +67,7 @@ transition: all 0.7s;
 }
 
 #dsmovie-card-list {
-  padding: 40px 0;
+  padding: 40px 40px;
 }
 .dsmovie-card {
   width: 260px;
@@ -90,7 +90,7 @@ transition: all 0.7s;
 .dsmove-card-description h3 {
   font-size: 14px;
   font-weight: 700;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
   text-align: center;
 }
 
