@@ -116,6 +116,21 @@ Passo: Avaliação com estrelas
 
 Passo: Polimento da listagem
 
+Parte dois Projeto 3:
+
+Implantação do site no Github Pages
+
+Passo: Componente de paginação
+Para mudar a cor de um SVG:
+
+https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-element
+
+Commit: Componente de paginação
+
+Passo: Implantação no Github Pages
+Acessar o projeto no Github
+Settings -> Pages
+Selecione o branch "main" (Save)
 
 
 
